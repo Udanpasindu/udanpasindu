@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prageeth Torin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prageethtorin&label=Profile%20views&color=0e75b6&style=flat" alt="prageethtorin" /> </p>
+<p align="left"> <img src="https://github.com/Udanpasindu" /> </p>
 
 - 🎓 I’m an Undergraduate at [SLIIT](https://www.sliit.lk/)
 
