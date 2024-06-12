@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sahan Grinding Mills project**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA****Kotlin**
 
 - 📫 How to reach me **udanpasindu934@gmail.com**
 
