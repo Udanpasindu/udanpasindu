@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 🔭 I’m currently working on **Sahan Grinding Mills project**
+- 🔭 I’m currently working on **React TypeScript project**
 
 - 💬 Ask me about **JAVA****Kotlin**
 
