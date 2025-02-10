@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React TypeScript project**
 
-- 💬 Ask me about **JAVA****Kotlin**
+- 💬 Ask me about **React*TypeScript*JAVA*Kotlin**
 
 - 📫 How to reach me **udanpasindu934@gmail.com**
 
